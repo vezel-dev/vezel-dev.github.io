@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Chome: Static",
+      "presentation": {
+        "group": "Chrome"
+      },
+      "type": "pwa-chrome",
+      "request": "launch",
+      "file": "${workspaceFolder}/index.html"
+    },
+    {
+      "name": "Chome: Served",
+      "presentation": {
+        "group": "Chrome"
+      },
+      "type": "pwa-chrome",
+      "request": "launch",
+      "url": "https://localhost:54321"
+    },
+    {
+      "name": "Edge: Static",
+      "presentation": {
+        "group": "Edge"
+      },
+      "type": "pwa-msedge",
+      "request": "launch",
+      "file": "${workspaceFolder}/index.html"
+    },
+    {
+      "name": "Edge: Served",
+      "presentation": {
+        "group": "Edge"
+      },
+      "type": "pwa-msedge",
+      "request": "launch",
+      "url": "https://localhost:54321"
+    },
+    {
+      "name": "Firefox: Static",
+      "presentation": {
+        "group": "Firefox"
+      },
+      "type": "firefox",
+      "request": "launch",
+      "file": "${workspaceFolder}/index.html"
+    },
+    {
+      "name": "Firefox: Served",
+      "presentation": {
+        "group": "Firefox"
+      },
+      "type": "firefox",
+      "request": "launch",
+      "url": "https://localhost:54321"
+    }
+  ]
+}
