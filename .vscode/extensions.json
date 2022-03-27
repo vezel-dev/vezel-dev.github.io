@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "davidanson.vscode-markdownlint",
+    "dotjoshjohnson.xml",
+    "editorconfig.editorconfig",
+    "github.vscode-pull-request-github",
+    "hashhar.gitattributes",
+    "jock.svg",
+    "redhat.vscode-yaml"
+  ]
+}
