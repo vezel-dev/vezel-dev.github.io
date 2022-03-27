@@ -1,6 +1,6 @@
 [serve]
     port = 54321
-    brotli
-    cors
-    gzip
     tls
+    brotli
+    gzip
+    cors
