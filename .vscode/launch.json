@@ -2,54 +2,54 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Chome: Static",
+      "name": "Chome: Launch (Static)",
       "presentation": {
-        "group": "Chrome"
+        "group": "vezel-dev.github.io"
       },
       "type": "pwa-chrome",
       "request": "launch",
       "file": "${workspaceFolder}/index.html"
     },
     {
-      "name": "Chome: Served",
+      "name": "Chome: Launch (Served)",
       "presentation": {
-        "group": "Chrome"
+        "group": "vezel-dev.github.io"
       },
       "type": "pwa-chrome",
       "request": "launch",
       "url": "https://localhost:54321"
     },
     {
-      "name": "Edge: Static",
+      "name": "Edge: Launch (Static)",
       "presentation": {
-        "group": "Edge"
+        "group": "vezel-dev.github.io"
       },
       "type": "pwa-msedge",
       "request": "launch",
       "file": "${workspaceFolder}/index.html"
     },
     {
-      "name": "Edge: Served",
+      "name": "Edge: Launch (Served)",
       "presentation": {
-        "group": "Edge"
+        "group": "vezel-dev.github.io"
       },
       "type": "pwa-msedge",
       "request": "launch",
       "url": "https://localhost:54321"
     },
     {
-      "name": "Firefox: Static",
+      "name": "Firefox: Launch (Static)",
       "presentation": {
-        "group": "Firefox"
+        "group": "vezel-dev.github.io"
       },
       "type": "firefox",
       "request": "launch",
       "file": "${workspaceFolder}/index.html"
     },
     {
-      "name": "Firefox: Served",
+      "name": "Firefox: Launch (Served)",
       "presentation": {
-        "group": "Firefox"
+        "group": "vezel-dev.github.io"
       },
       "type": "firefox",
       "request": "launch",
