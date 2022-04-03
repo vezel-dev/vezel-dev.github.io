@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8">
+        <meta charset="utf-8">
         <meta name="viewport"
               content="initial-scale=1, width=device-width">
 
@@ -14,9 +14,184 @@
         <title>Vezel</title>
     </head>
 
-    <body>
-        <div>
-            TODO
+    <body class="d-flex justify-content-center">
+        <div class="card w-50">
+            <header class="card-header text-center">
+                <img class="card-img-top"
+                     style="width: 10rem;"
+                     src="vezel.svg"
+                     alt="Vezel" />
+
+                <h1 class="card-title text-white">
+                    Vezel
+                </h1>
+
+                <p class="card-subtitle text-light">
+                    Creating delightful developer-oriented software.
+                </p>
+            </header>
+
+            <main class="card-body">
+                <div class="container">
+                    <div class="row">
+                        <h2 class="text-center mb-3">
+                            About
+                        </h2>
+
+                        <p class="card-text">
+                            <strong>Vezel</strong> ("fezel") is a non-profit software organization founded in March of
+                            2022 with a focus on creating and maintaining delightful developer-oriented software such as
+                            libraries, build tooling, and compilers. All of our software is open source and made
+                            available under the terms of the exceptionally liberal
+                            <a href="https://opensource.org/licenses/0BSD">Zero-Clause BSD</a> license to ensure that
+                            everyone can benefit from our work.
+                        </p>
+
+                        <p class="card-text">
+                            <strong>Vezel</strong> is also a non-profit corporation located in Denmark. This legal
+                            entity handles finances, services, and assets needed by the organization. Anyone can
+                            contribute donations on <a href="https://opencollective.com/vezel">our Open Collective</a>
+                            where our finances are also completely transparent.
+                        </p>
+
+                        <p class="card-text">
+                            The organization's projects can be found on
+                            <a href="https://github.com/vezel-dev">our GitHub organization</a>.
+                        </p>
+                    </div>
+
+                    <hr />
+
+                    <div class="row">
+                        <h2 class="text-center mb-3">
+                            Projects
+                        </h2>
+
+                        <div class="col-md-4">
+                            <div class="card h-100">
+                                <div class="card-header text-center h-100">
+                                    <a href="https://github.com/vezel-dev/cathode"
+                                       title="Cathode">
+                                        <img class="card-img-top my-2"
+                                             style="width: 7rem;"
+                                             src="https://raw.githubusercontent.com/vezel-dev/cathode/master/cathode.svg"
+                                             alt="Cathode" />
+
+                                        <h5 class="card-title text-white my-2">
+                                            Cathode
+                                        </h5>
+                                    </a>
+
+                                    <p class="card-subtitle text-light my-2">
+                                        A terminal-centric replacement for System.Console.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="card h-100">
+                                <div class="card-header text-center h-100">
+                                    <a href="https://github.com/vezel-dev/zig-msbuild-sdk"
+                                       title="Zig.Sdk">
+                                        <img class="card-img-top my-2"
+                                             style="width: 7rem;"
+                                             src="https://raw.githubusercontent.com/vezel-dev/zig-msbuild-sdk/master/zig.svg"
+                                             alt="Zig.Sdk" />
+
+                                        <h5 class="card-title text-white my-2">
+                                            Zig.Sdk
+                                        </h5>
+                                    </a>
+
+                                    <p class="card-subtitle text-light my-2">
+                                        An MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="card h-100">
+                                <div class="card-header text-center h-100">
+                                    <a href="https://github.com/vezel-dev/zig-msbuild-toolsets"
+                                       title="Zig MSBuild Toolsets">
+                                        <img class="card-img-top my-2"
+                                             style="width: 7rem;"
+                                             src="https://raw.githubusercontent.com/vezel-dev/zig-msbuild-toolsets/master/zig.svg"
+                                             alt="Zig MSBuild Toolsets" />
+
+                                        <h5 class="card-title text-white my-2">
+                                            Zig MSBuild Toolsets
+                                        </h5>
+                                    </a>
+
+                                    <p class="card-subtitle text-light my-2">
+                                        The Zig compiler and standard library packaged for use in MSBuild.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <hr />
+
+                    <div class="row">
+                        <h2 class="text-center mb-3">
+                            Team
+                        </h2>
+
+                        <div class="col-md-4">
+                            <div class="card h-100">
+                                <div class="card-header text-center h-100">
+                                    <a href="https://github.com/alexrp"
+                                       title="alexrp">
+                                        <img class="card-img-top my-2"
+                                             style="width: 7rem;"
+                                             src="https://github.com/alexrp.png"
+                                             alt="alexrp" />
+
+                                        <h5 class="card-title text-white my-2">
+                                            alexrp
+                                        </h5>
+                                    </a>
+
+                                    <p class="card-subtitle text-light my-2">
+                                        Founder & Maintainer
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+
+            <footer class="card-footer text-center text-light">
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <p class="card-text text-start">
+                                <a href="mailto:vzl@vezel.dev"
+                                   title="Contact">
+                                    vzl@vezel.dev
+                                </a>
+                            </p>
+                        </div>
+
+                        <div class="col">
+                            <p class="card-text text-center">
+                                Copyright &copy; Vezel Maintainers
+                            </p>
+                        </div>
+
+                        <div class="col">
+                            <p class="card-text text-end">
+                                DK43168665
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </footer>
         </div>
 
         <script type="module"
