@@ -13,9 +13,7 @@
       "type": "process",
       "command": "dotnet",
       "args": [
-        "tool",
-        "run",
-        "dotnet-serve"
+        "serve",
       ],
       "runOptions": {
         "instanceLimit": 1
