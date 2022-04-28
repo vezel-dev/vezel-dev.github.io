@@ -22,4 +22,4 @@
 
 This repository contains the source code for the Vezel organization website,
 which is hosted at [vezel.dev](https://vezel.dev) via
-[GitHub Pages](https://pages.github.com/).
+[GitHub Pages](https://pages.github.com).
