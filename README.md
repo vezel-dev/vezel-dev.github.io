@@ -23,3 +23,8 @@
 This repository contains the source code for the Vezel organization website,
 which is hosted at [vezel.dev](https://vezel.dev) via
 [GitHub Pages](https://pages.github.com).
+
+## License
+
+This project is licensed under the terms found in
+[`LICENSE-0BSD`](LICENSE-0BSD).
