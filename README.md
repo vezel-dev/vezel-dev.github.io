@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![License](https://img.shields.io/github/license/vezel-dev/vezel-dev.github.io?color=brown)](LICENSE.md)
+[![License](https://img.shields.io/github/license/vezel-dev/vezel-dev.github.io?color=brown)](LICENSE-0BSD)
 [![Commits](https://img.shields.io/github/commit-activity/m/vezel-dev/vezel-dev.github.io/master?label=commits&color=slateblue)](https://github.com/vezel-dev/vezel-dev.github.io/commits/master)
 
 </div>
