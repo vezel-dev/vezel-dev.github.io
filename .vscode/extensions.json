@@ -1,17 +1,15 @@
 {
   "recommendations": [
+    "chdsbd.github-code-owners",
     "davidanson.vscode-markdownlint",
-    "eamodio.gitlens",
     "ecmel.vscode-html-css",
     "editorconfig.editorconfig",
     "firefox-devtools.vscode-firefox-debug",
-    "github.codespaces",
     "github.vscode-pull-request-github",
-    "hashhar.gitattributes",
-    "jasonnutter.vscode-codeowners",
     "jock.svg",
     "ms-vscode.live-server",
     "redhat.vscode-xml",
-    "redhat.vscode-yaml"
+    "redhat.vscode-yaml",
+    "yy0931.gitconfig-lsp"
   ]
 }
