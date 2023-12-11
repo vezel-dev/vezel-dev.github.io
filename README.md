@@ -2,7 +2,8 @@
 
 <div align="center">
     <img src="vezel.svg"
-         width="128" />
+         width="128"
+         alt="Vezel" />
 </div>
 
 <p align="center">
