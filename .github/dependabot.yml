@@ -7,4 +7,5 @@ updates:
           interval: daily
           timezone: Europe/Copenhagen
           time: "12:00"
+      open-pull-requests-limit: 25
       labels: []
