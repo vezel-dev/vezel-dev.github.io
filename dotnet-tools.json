@@ -2,6 +2,12 @@
   "version": 1,
   "isRoot": true,
   "tools": {
+    "dotnet-file": {
+      "version": "1.4.1",
+      "commands": [
+        "dotnet-file"
+      ]
+    },
     "dotnet-serve": {
       "version": "1.10.172",
       "commands": [
