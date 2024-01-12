@@ -5,8 +5,8 @@
 	weak
 [file ".gitattributes"]
 	url = https://github.com/vezel-dev/.github/blob/master/syn/.gitattributes
-	sha = 7d581ae5eedad5892855cebc673edafad664856b
-	etag = c1bac631d5681cc0e90616d8df30a3a65d70f04acead7caf00de71821fe683a8
+	sha = e1d60d738e36f3741104a47c67156614aa5b9d8b
+	etag = 57083d3c73ff7ab2740ab17fd99d31cedcff606818190f9a415d97d27b62e7d4
 	weak
 [file ".markdownlint.json"]
 	url = https://github.com/vezel-dev/.github/blob/master/syn/.markdownlint.json
