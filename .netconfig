@@ -18,6 +18,11 @@
 	sha = 7d581ae5eedad5892855cebc673edafad664856b
 	etag = 4fe195e9c11a20688615d92035ac752eeac4ab3f3d82b20df798ea6dc1b49aab
 	weak
+[file "nuget.config"]
+	url = https://github.com/vezel-dev/.github/blob/master/syn/nuget.config
+	sha = 067d9121002f15e2e66bb78e7186c613a14c114b
+	etag = 1a37c641ea5aeda5671440422578c1a054e7177257856b137191cf6e181e29e1
+	weak
 [serve]
     port = 54321
     tls
