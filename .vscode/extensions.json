@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "chdsbd.github-code-owners",
+    "codezombiech.gitignore",
     "davidanson.vscode-markdownlint",
     "ecmel.vscode-html-css",
     "editorconfig.editorconfig",
@@ -9,6 +10,7 @@
     "jock.svg",
     "ms-vscode.live-server",
     "redhat.vscode-xml",
+    "redhat.vscode-yaml",
     "yy0931.gitconfig-lsp"
   ]
 }
