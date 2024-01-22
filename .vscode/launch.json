@@ -6,7 +6,7 @@
       "presentation": {
         "group": "vezel-dev.github.io"
       },
-      "type": "pwa-chrome",
+      "type": "chrome",
       "request": "launch",
       "file": "${workspaceFolder}/index.html"
     },
@@ -15,7 +15,7 @@
       "presentation": {
         "group": "vezel-dev.github.io"
       },
-      "type": "pwa-chrome",
+      "type": "chrome",
       "request": "launch",
       "url": "https://localhost:54321"
     },
@@ -24,7 +24,7 @@
       "presentation": {
         "group": "vezel-dev.github.io"
       },
-      "type": "pwa-msedge",
+      "type": "msedge",
       "request": "launch",
       "file": "${workspaceFolder}/index.html"
     },
@@ -33,7 +33,7 @@
       "presentation": {
         "group": "vezel-dev.github.io"
       },
-      "type": "pwa-msedge",
+      "type": "msedge",
       "request": "launch",
       "url": "https://localhost:54321"
     },
