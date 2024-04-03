@@ -16,6 +16,7 @@
 
 [![License](https://img.shields.io/github/license/vezel-dev/vezel-dev.github.io?color=brown)](LICENSE-0BSD)
 [![Commits](https://img.shields.io/github/commit-activity/m/vezel-dev/vezel-dev.github.io/master?label=commits&color=slateblue)](https://github.com/vezel-dev/vezel-dev.github.io/commits/master)
+[![Discord](https://img.shields.io/discord/960716713136095232?color=peru&label=discord)](https://discord.gg/NSSgCYuf2m)
 
 </div>
 
