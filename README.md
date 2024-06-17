@@ -17,6 +17,7 @@
 [![License](https://img.shields.io/github/license/vezel-dev/vezel-dev.github.io?color=brown)](LICENSE-0BSD)
 [![Commits](https://img.shields.io/github/commit-activity/m/vezel-dev/vezel-dev.github.io/master?label=commits&color=slateblue)](https://github.com/vezel-dev/vezel-dev.github.io/commits/master)
 [![Build](https://img.shields.io/github/actions/workflow/status/vezel-dev/vezel-dev.github.io/pages/pages-build-deployment?branch=master)](https://github.com/vezel-dev/vezel-dev.github.io/actions/workflows/pages/pages-build-deployment)
+[![Discussions](https://img.shields.io/github/discussions/vezel-dev/vzl?color=teal)](https://github.com/orgs/vezel-dev/discussions)
 [![Discord](https://img.shields.io/badge/discord-chat-7289da?logo=discord)](https://discord.gg/wtzCfaX2Nj)
 [![Zulip](https://img.shields.io/badge/zulip-chat-394069?logo=zulip)](https://vezel.zulipchat.com)
 
